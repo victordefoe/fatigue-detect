@@ -1,0 +1,3 @@
+/home/liuchen/Myfile/flowproj/flowcatch/build/CMakeFiles/rebuild_cache.dir
+/home/liuchen/Myfile/flowproj/flowcatch/build/CMakeFiles/edit_cache.dir
+/home/liuchen/Myfile/flowproj/flowcatch/build/CMakeFiles/main.dir

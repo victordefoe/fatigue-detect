@@ -1,0 +1,8 @@
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/rebuild_cache.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/edit_cache.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/dlib_shared.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/dlib.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/install/strip.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/install.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/install/local.dir
+/home/victor/Myfile/cafkeyproj/opensource-code&data/dlib-19.7/dlib/build/CMakeFiles/list_install_components.dir
